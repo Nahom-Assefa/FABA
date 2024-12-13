@@ -1,2 +1,2 @@
 # FABA
-An events driven app for Africans by Africans
+Backend server and DB for a new application
